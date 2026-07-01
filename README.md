@@ -107,7 +107,7 @@ A SOC-style USB security monitoring platform built to detect and investigate sus
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muvaren&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=muvaren&theme=radical&hide_border=true" />
 
 </div>
 
